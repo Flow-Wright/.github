@@ -28,14 +28,6 @@ or on an optional team server. Open source, MIT licensed.
 - **Live run visibility** — watch every run and follow each stage as it happens.
 - **Open source, MIT** — self-hosted, no lock-in, keep the whole record.
 
-### Repositories
-
-| Repo | What it is | Status |
-| --- | --- | --- |
-| [**FlowWright**](https://github.com/Flow-Wright/FlowWright) | The core pipeline engine. | Pre-launch |
-| [**FlowWright-web**](https://github.com/Flow-Wright/FlowWright-web) | The [flowwright.dev](https://flowwright.dev) showcase site. | Live |
-| [**FlowWright-docs**](https://github.com/Flow-Wright/FlowWright-docs) | The documentation site. | In progress |
-
 ### Links
 
 [Website](https://flowwright.dev) · [Docs](https://docs.flowwright.dev) · [Main repo](https://github.com/Flow-Wright/FlowWright)
